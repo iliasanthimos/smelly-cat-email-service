@@ -4,6 +4,11 @@ Run npm install
 
 ## Place your own Sendgrid API Key to the config.env file.
 
-Ιn the emailService.js file you can enter the admin email (adminEmail = 'youremail') to receive the relevant information.
+## Ιn the emailService.js file.
 
-## emailService.js replace fromEmail = 'no-reply-smelly-cat@yourVerifiedDomain.com' .
+Type the admin email (adminEmail = 'youremail') to receive the relevant information.
+
+replace fromEmail = 'no-reply-smelly-cat@yourVerifiedDomain.com' .
+
+## Nodemon npm run dev
+## Node npm run start
