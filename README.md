@@ -10,8 +10,8 @@ Type the admin email (adminEmail = 'youremail') to receive the relevant informat
 
 replace fromEmail = 'no-reply-smelly-cat@yourVerifiedDomain.com' .
 
-Nodemon npm run dev.
+Nodemon: npm run dev.
 
-Node npm run start.
+Node: npm run start.
 
 http://localhost:3000
