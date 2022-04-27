@@ -1,5 +1,7 @@
 ## Smelly-cat-email-service
 
+Node.js https://nodejs.org/en/
+
 Run npm install
 
 ## Place your own Sendgrid API Key to the config.env file.
