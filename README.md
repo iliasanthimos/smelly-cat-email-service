@@ -1,6 +1,7 @@
 ## Smelly-cat-email-service
 
 Node.js https://nodejs.org/en/
+v16.14.2
 
 Run npm install
 
