@@ -9,7 +9,7 @@ https://sendgrid.com/
 
 Type the admin email (adminEmail = 'youremail') to receive the relevant information.
 
-replace fromEmail = 'no-reply-smelly-cat@yourVerifiedDomain.com' .
+replace fromEmail = 'no-reply-smelly-cat@yourVerifiedDomain.com || Sendgrid Verfied Single Sender ' .
 
 Nodemon: npm run dev.
 
