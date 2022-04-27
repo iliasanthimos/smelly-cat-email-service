@@ -3,6 +3,7 @@
 Run npm install
 
 ## Place your own Sendgrid API Key to the config.env file.
+https://sendgrid.com/
 
 ## Ιn the emailService.js file.
 
